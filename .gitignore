@@ -1,0 +1,12 @@
+# Compiled binaries
+test
+*.o
+*.out
+*.exe
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
